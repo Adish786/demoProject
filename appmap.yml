@@ -1,0 +1,4 @@
+name: "demoProject"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "com.example"
