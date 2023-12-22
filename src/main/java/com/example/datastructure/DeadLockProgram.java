@@ -47,7 +47,6 @@ public class DeadLockProgram {
             }
         }
     }
-
     public static void main(String args[]) {
         ThreadName1 thread1 = new ThreadName1();
         ThreadName2 thread2 = new ThreadName2();
