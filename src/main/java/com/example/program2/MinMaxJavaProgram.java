@@ -1,4 +1,6 @@
-package com.example.programs;
+package com.example.program2;
+
+import com.example.programs.Employee1;
 
 import java.util.*;
 import java.util.function.BinaryOperator;
